@@ -11,8 +11,6 @@ Este portfólio é uma vitrine interativa dos meus trabalhos em Ciência de Dado
 - 🌐 Seções: Home, Sobre, Skills, Projetos, Contato e Footer  
 - 🌍 Suporte a idiomas (🇧🇷 Português e 🇺🇸 English)
 
-🔗 Projeto ao vivo: 👉 [link](https://matheussbrand.github.io/matheussbrand-Portfolio_DS_/){:target="_blank"}
-
 ---
 
 ## 🧱 Tecnologias Utilizadas
