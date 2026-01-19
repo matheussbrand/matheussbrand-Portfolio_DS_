@@ -25,7 +25,5 @@ A aplicação é construída com as seguintes tecnologias:
 | **React Slick** | Carrossel de projetos interativo |
 | **Vite** | Ferramenta de build e desenvolvimento rápido |
 
----
 
-## 📁 Estrutura do Projeto
 
